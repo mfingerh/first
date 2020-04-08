@@ -1,2 +1,2 @@
 # My great thesis
-Author: Matthias Fingerhuth
+Author: C. Matthias Fingerhuth
